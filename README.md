@@ -62,6 +62,8 @@ Class balance: 500 non-diabetic / 268 diabetic (~35% positive).
 ## How to run
 
 ```bash
+git clone https://github.com/rajnsingh99/diabetes-prediction-ml.git
+cd diabetes-prediction-ml
 pip install -r requirements.txt
 jupyter notebook Diabetes_Prediction.ipynb
 ```
